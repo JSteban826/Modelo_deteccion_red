@@ -1,0 +1,25 @@
+{
+  "semilla": 26,
+  "origen": "PC01",
+  "destino": "SRV02",
+  "ruta": [
+    "PC01",
+    "SW01",
+    "SRV01",
+    "RTR02",
+    "SW02",
+    "SRV02"
+  ],
+  "metricas": {
+    "peso": 2.0213,
+    "latencia": 377,
+    "trafico_promedio": 41.2,
+    "perdida_promedio": 11.594,
+    "saltos": 5
+  },
+  "formula_peso": {
+    "latencia": 0.7,
+    "trafico": 0.2,
+    "perdida": 0.1
+  }
+}

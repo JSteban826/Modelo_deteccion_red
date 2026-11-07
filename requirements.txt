@@ -1,0 +1,7 @@
+networkx>=3.2
+matplotlib>=3.8
+pandas>=2.0
+pillow>=10.0
+scikit-learn>=1.4
+torch>=2.2
+torch-geometric>=2.5
